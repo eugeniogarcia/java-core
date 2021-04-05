@@ -26,5 +26,4 @@ public class IsLetterOrAlphabetUnitTest {
     public void givenACharacter_whenAlphabeticAndNotLetter_thenAssertIsAlphabeticTrue() {
         assertTrue(Character.isAlphabetic(837));
     }
-
 }
