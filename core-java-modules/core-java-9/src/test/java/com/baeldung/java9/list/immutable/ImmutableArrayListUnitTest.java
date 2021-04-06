@@ -1,15 +1,16 @@
 package com.baeldung.java9.list.immutable;
 
-import com.baeldung.java14.record.Person;
-import com.google.common.collect.ImmutableList;
-import org.apache.commons.collections4.ListUtils;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
+import org.apache.commons.collections4.ListUtils;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+
+import com.google.common.collect.ImmutableList;
 
 public class ImmutableArrayListUnitTest {
 
