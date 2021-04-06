@@ -3,8 +3,6 @@
 *#
 .#*
 .classpath
-.project
-.settings/
 .springBeans
 target/
 bin/
